@@ -1,0 +1,5 @@
+C:\Users\bales\source\repos\Rulett\Rulett\bin\publish\Rulett.exe
+C:\Users\bales\source\repos\Rulett\Rulett\bin\publish\Rulett.dll
+C:\Users\bales\source\repos\Rulett\Rulett\bin\publish\Rulett.deps.json
+C:\Users\bales\source\repos\Rulett\Rulett\bin\publish\Rulett.runtimeconfig.json
+C:\Users\bales\source\repos\Rulett\Rulett\bin\publish\Rulett.pdb
